@@ -21,7 +21,9 @@ Improved -
 ![image](https://github.com/Nirmean/Horiseon-Code-Refactor/assets/149950638/3fb7c2f0-3b27-488c-a94c-6c307a4ce320)
 
 **How did we do it?**
-- created an 
+- Created the Horiseon Refactor repo
+- Cloned the repo to the local environment
+- Created new branch "improve-accessibility", made the necessary feature changes and pushed changes to the github repo
 
 MIT License
 
