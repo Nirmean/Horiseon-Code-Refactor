@@ -8,9 +8,11 @@ This project saw us refactor Horiseon (a marketing agency) website to improve it
 - It will improve Horiseon's website 
 - Ensures those with disabilities can access the content on the site
 
-**Features**
-- Ensured semantic elements are integrated throughout.
+**What we did**
+- Integrsted semantic elements throughout.
 - Included descriptive 'alt' descriptions to images and icon elements.
+- Tested all links function correctly
+- Checked CSS selectors are correct
 
 For example:
 Original code -
