@@ -8,7 +8,7 @@ This project saw us refactor Horiseon (a marketing agency) website to improve it
 - It will improve Horiseon's website 
 - Ensures those with disabilities can access the content on the site
 
-**What we did**
+**What did we do?**
 - Integrsted semantic elements throughout.
 - Included descriptive 'alt' descriptions to images and icon elements.
 - Tested all links function correctly
@@ -27,7 +27,7 @@ Improved -
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2023] [Nirmean Sawi]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
